@@ -4,6 +4,8 @@ Currently studying Systems Engineering.<br/>
 Always eager to learn new things.<br/>
 I love taking on challenges!<br/>
 
+📫 Check out my website: [miguelsernamon.pages.dev](https://miguelsernamon.pages.dev/) 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelsernamon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:migueloserna@gmail.com) 
