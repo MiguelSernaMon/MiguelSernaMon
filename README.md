@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm a freelance web developer.
-Currently studying Systems Engineering.
-Always eager to learn new things.
-I love taking on challenges!
+I'm a freelance web developer.<br/>
+Currently studying Systems Engineering.<br/>
+Always eager to learn new things.<br/>
+I love taking on challenges!<br/>
 
 
 ## 🌐 Socials:
